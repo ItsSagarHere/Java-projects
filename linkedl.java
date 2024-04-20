@@ -86,7 +86,7 @@ public void addmiddle(String data, int p){
                     
                  }
                  if(h==2){
-                    System.out.println("Enter Position aftr add");
+                    System.out.println("Enter Position after add");
                    Scanner sp =new Scanner(System.in);
                    p = sp.nextInt();
                     list.addmiddle("pompom",p);
